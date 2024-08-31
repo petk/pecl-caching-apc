@@ -1,3 +1,5 @@
+1. Archive this repository
+
 Known Bugs
 
 1.   Gallery2 doesn't work with PHP5+APC.  There is something wrong
@@ -33,3 +35,4 @@ Windows
 3.   Update fileinfo to support stat info in a more portable way (see PECL #17903)
 
 4.   Check whether the signal handling needs to be enabled, and if it makes sense on Windows
+
